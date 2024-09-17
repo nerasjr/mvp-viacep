@@ -1,0 +1,13 @@
+Win64/
+Win32/
+__history/
+*.identcache
+*.local
+*.res
+*.dproj
+*.dfm
+*.dcp
+*.map
+*.obj
+*.exe
+*.dll
