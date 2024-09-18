@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/15 17:36:28.000.334,=C:\Users\nerasjr\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/15 17:38:33.000.222,C:\Users\nerasjr\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Projetos\softplan\mvp-viacep\MvpViaCEP.pas</Transaction>
+    <Transaction>2024/09/15 17:38:33.000.222,C:\Users\nerasjr\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Projetos\softplan\mvp-viacep\MvpViaCEP.dfm</Transaction>
+    <Transaction>2024/09/15 17:39:12.000.575,D:\Projetos\softplan\mvp-viacep\MvpViaCEP.pas=D:\Projetos\softplan\mvp-viacep\undPrincipal.pas</Transaction>
+    <Transaction>2024/09/15 17:39:12.000.575,D:\Projetos\softplan\mvp-viacep\MvpViaCEP.dfm=D:\Projetos\softplan\mvp-viacep\undPrincipal.dfm</Transaction>
+    <Transaction>2024/09/15 17:40:12.000.506,C:\Users\nerasjr\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Projetos\softplan\mvp-viacep\MVPViaCEP.dproj</Transaction>
+    <Transaction>2024/09/15 17:41:33.000.447,=D:\Projetos\softplan\mvp-viacep\Unit1.pas</Transaction>
+    <Transaction>2024/09/15 17:42:15.000.695,D:\Projetos\softplan\mvp-viacep\Unit1.dfm=D:\Projetos\softplan\mvp-viacep\DataAccess\udmPrincipal.dfm</Transaction>
+    <Transaction>2024/09/15 17:42:15.000.695,D:\Projetos\softplan\mvp-viacep\Unit1.pas=D:\Projetos\softplan\mvp-viacep\DataAccess\udmPrincipal.pas</Transaction>
+    <Transaction>2024/09/15 18:52:30.000.513,=D:\Projetos\softplan\mvp-viacep\Unit1.pas</Transaction>
+    <Transaction>2024/09/15 18:53:17.000.218,D:\Projetos\softplan\mvp-viacep\Unit1.pas=D:\Projetos\softplan\mvp-viacep\Interfaces\untViaCepInterface.pas</Transaction>
+    <Transaction>2024/09/15 18:55:12.000.480,=D:\Projetos\softplan\mvp-viacep\Unit1.pas</Transaction>
+    <Transaction>2024/09/15 18:57:07.000.709,D:\Projetos\softplan\mvp-viacep\Unit1.pas=D:\Projetos\softplan\mvp-viacep\Classes\untViacep.pas</Transaction>
+    <Transaction>2024/09/15 19:00:16.000.412,D:\Projetos\softplan\mvp-viacep\Classes\untViacep.pas=</Transaction>
+    <Transaction>2024/09/16 09:22:33.755,=D:\Projetos\softplan\mvp-viacep\Unit1.pas</Transaction>
+    <Transaction>2024/09/16 09:23:08.310,D:\Projetos\softplan\mvp-viacep\undSelecionarCep.dfm=D:\Projetos\softplan\mvp-viacep\Unit1.dfm</Transaction>
+    <Transaction>2024/09/16 09:23:08.310,D:\Projetos\softplan\mvp-viacep\undSelecionarCep.pas=D:\Projetos\softplan\mvp-viacep\Unit1.pas</Transaction>
+    <Transaction>2024/09/16 10:36:10.051,=D:\Projetos\softplan\mvp-viacep\Unit1.pas</Transaction>
+    <Transaction>2024/09/16 10:36:24.404,D:\Projetos\softplan\mvp-viacep\untUtils.pas=D:\Projetos\softplan\mvp-viacep\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

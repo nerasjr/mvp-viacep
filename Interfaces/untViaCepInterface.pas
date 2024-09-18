@@ -118,7 +118,7 @@ begin
     else if Length(Resultados) = 1 then
       Result := Resultados[0]
     else
-      ShowMessage('Endereço não existe!');
+      raise Exception.Create('Endereço não existe!');
 
   end
   else
