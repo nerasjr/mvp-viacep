@@ -43,21 +43,5 @@ Execute a aplicação clicando no botão "Run" ou pressionando F9.
 
 Utilize a interface gráfica para inserir um CEP e receber os dados da consulta.
 
-Estrutura do Projeto
-plaintext
-Copiar código
-MVPViaCEP/
-│
-├── DataAccess/
-│   └── Interfaces/            # Interfaces de acesso a dados
-├── Forms/
-│   └── undPrincipal.pas       # Formulário principal
-│   └── undSelecionarCep.pas   # Formulário de seleção de CEP
-├── Services/
-│   └── ConsultaCEPService.pas # Serviço de consulta ao ViaCEP
-├── Utils/
-│   └── untUtils.pas           # Utilitários gerais
-├── MVPViaCEP.dpr              # Arquivo principal do projeto
-└── README.md                  # Documentação do projeto
 Licença
 Este projeto está licenciado sob a MIT License.
